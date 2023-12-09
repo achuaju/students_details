@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612796207565",
+    "project_id": "food-fly-26ce0",
+    "storage_bucket": "food-fly-26ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612796207565:android:63ee9bc64af8fc07edf484",
+        "android_client_info": {
+          "package_name": "com.example.food_fly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReajjfN8bk3J75Asl3AXzmKefbCvsfGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
